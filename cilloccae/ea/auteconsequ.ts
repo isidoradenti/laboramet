@@ -1,0 +1,1 @@
+await comments.delete(newComment);
